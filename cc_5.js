@@ -21,3 +21,9 @@ const employees = [
         hoursWorked: 40
     }
 ];
+
+// Step 3: Calculate base pay (up to 40 hours)
+function calculateBasePay(rate, hours) {
+    return rate * Math.min(hours, 40);
+}
+
