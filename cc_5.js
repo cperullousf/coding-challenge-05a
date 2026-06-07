@@ -1,22 +1,22 @@
 // Step 2: Create an array of employee objects
 const employees = [
     {
-        name: "John",
+        name: "Mitchell",
         hourlyRate: 20,
         hoursWorked: 38
     },
     {
-        name: "Sarah",
+        name: "Max",
         hourlyRate: 25,
         hoursWorked: 45
     },
     {
-        name: "Mike",
+        name: "Storf",
         hourlyRate: 18,
         hoursWorked: 50
     },
     {
-        name: "Emily",
+        name: "Ryan",
         hourlyRate: 30,
         hoursWorked: 40
     }
